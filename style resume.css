@@ -1,0 +1,43 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    background-color: black;
+}
+.res{
+    text-align: center;
+    font-family: sans-serif;
+    color:white;
+}
+.intro{
+    color:white;
+    font-size:25px;
+}
+#w{
+    font-size:20px;
+    color:white;
+}
+.cl{
+    color:white;
+    font-size:25px;
+}
+#c{
+    color:white;
+    font-size:20px;
+}
+#p{
+    color:white;
+    font-size: 20px;
+}
+.mw{
+    color:white;
+    font-size: 25px;
+}
+#p1{
+    color:white;
+    font-size: 20px;
+}
+.work{
+    color:white;
+    font-size: 20px;
+}
